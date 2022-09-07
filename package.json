@@ -1,0 +1,14 @@
+{
+  "name": "students-degrees",
+  "version": "1.0.0",
+  "description": "Simple app by Node JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Al-Aasar",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
+}
